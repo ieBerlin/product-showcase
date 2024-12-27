@@ -1,0 +1,11 @@
+Model Information:
+* title:	iphone case
+* source:	https://sketchfab.com/3d-models/iphone-case-b3adc005144f44d5afeb201f60e681e4
+* author:	l8kris (https://sketchfab.com/l8kris)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "iphone case" (https://sketchfab.com/3d-models/iphone-case-b3adc005144f44d5afeb201f60e681e4) by l8kris (https://sketchfab.com/l8kris) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
